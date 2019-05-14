@@ -1,2 +1,2 @@
-# alpine-find
+# ubuntu-find
 Find linux command
